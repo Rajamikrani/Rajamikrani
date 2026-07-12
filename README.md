@@ -67,13 +67,37 @@ Full-stack video conferencing platform on the PERN stack with Prisma ORM, 80+ RE
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajamikrani&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajamikrani&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajamikrani&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajamikrani&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajamikrani&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajamikrani&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajamikrani&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajamikrani&theme=redical&hide_border=true" />
+</p>
+
+#### Pull Request & Contribution Breakdown
+
+| Metric | Badge |
+|---|---|
+| Total PRs (Merged) | ![PRs Merged](https://img.shields.io/github/issues-pr-closed/Rajamikrani/Rajamikrani?style=flat-square&color=success) |
+| Open PRs | ![PRs Open](https://img.shields.io/github/issues-pr/Rajamikrani/Rajamikrani?style=flat-square&color=yellow) |
+| Total Issues Closed | ![Issues Closed](https://img.shields.io/github/issues-closed/Rajamikrani/Rajamikrani?style=flat-square&color=blue) |
+| Followers | ![Followers](https://img.shields.io/github/followers/Rajamikrani?style=flat-square&label=Followers) |
+
+> 💡 For a full breakdown of PRs across *all* your repos (not just one), pin the [github-readme-stats PR stats card](https://github-readme-stats.vercel.app/api?username=Rajamikrani&show_icons=true&include_all_commits=true) above — it already aggregates total PRs, issues, stars, and commits account-wide.
 
 ---
 
