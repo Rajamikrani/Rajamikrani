@@ -17,7 +17,10 @@
 
 ## 🚀 About Me
 Final-year BCA student from Nepal with a strong passion for Artificial Intelligence, Machine Learning, and Deep Learning.
-I'm currently focused on building practical AI applications and strengthening my understanding of deep learning, neural networks, computer vision, and natural language processing. I enjoy transforming real-world problems into data-driven solutions through end-to-end machine learning projects.
+<br>
+I'm currently focused on building practical AI applications and strengthening my understanding of deep learning, neural networks, computer vision, and natural language processing. 
+<br> 
+I enjoy transforming real-world problems into data-driven solutions through end-to-end machine learning projects.
 
 
 ```text
@@ -111,16 +114,6 @@ Ridge Regression model (**R² = 0.876**) wrapped in a Flask app, deployed live o
 [→ View Repo](https://github.com/Rajamikrani/Student-Performance-Indicator) · [→ Live Demo](https://student-performance-indicator-w8hn.onrender.com)
 
 </td>
-<td width="50%" valign="top">
-
-### 🎬 Game of Thrones Word2Vec Explorer
-Interactive NLP web app (Gensim Word2Vec + Claude API) exploring word embeddings across a five-tab browser interface.
-
-`Gensim` `NLP` `JavaScript`
-
-[→ View Repo](https://github.com/Rajamikrani/YOUR-REPO-NAME)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -130,7 +123,7 @@ Full-stack video conferencing platform on the PERN stack with Prisma ORM, 80+ RE
 
 `PostgreSQL` `Express` `React` `Node.js` `Socket.io`
 
-[→ View Repo](https://github.com/Rajamikrani/Student-Performance-Indicator)
+[→ View Repo](https://github.com/Techy-Code1/meetra)
 
 </td>
 <td width="50%" valign="top">
