@@ -100,7 +100,9 @@ ANN (TensorFlow/Keras) predicting customer churn — **~86.6%** validation accur
 
 `TensorFlow` `Keras` `Streamlit` `Flask`
 
-[→ View Repo](https://github.com/Rajamikrani/Customer-Churn-Prediction---ANN-Classification)
+[→ View Repo](https://github.com/Rajamikrani/Customer-Churn-Prediction---ANN-Classification)  · · [→ Live Demo](https://student-performance-indicator-w8hn.onrender.com)
+
+
 
 </td>
 <td width="50%" valign="top">
@@ -128,6 +130,12 @@ Full-stack video conferencing platform on the PERN stack with Prisma ORM, 80+ RE
 </td>
 <td width="50%" valign="top">
 
+### 🎥 Afno Ghar
+Afno Ghar is a full-stack home rental platform inspired by Airbnb, built with the MERN stack. It features personalised recommendations using Cosine Similarity, interactive maps, image uploads via Cloudinary, and role-based dashboards for Guests, Hosts, and Admins.
+
+`Mongodb` `Express` `React` `Node.js` 
+
+[→ View Repo](https://github.com/Rajamikrani/Afno_ghar)
 </td>
 </tr>
 </table>
