@@ -97,29 +97,18 @@ ANN (TensorFlow/Keras) predicting customer churn — **~86.6%** validation accur
 
 `TensorFlow` `Keras` `Streamlit` `Flask`
 
-[→ View Repo](https://github.com/Rajamikrani/YOUR-REPO-NAME)
+[→ View Repo](https://github.com/Rajamikrani/Customer-Churn-Prediction---ANN-Classification)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 Nepal Earthquake Damage Prediction
-XGBoost model with SHAP explainability, predicting building damage from the 2015 Gorkha earthquake across 762,000+ building records.
-
-`XGBoost` `SHAP` `Pandas`
-
-[→ View Repo](https://github.com/Rajamikrani/YOUR-REPO-NAME)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 📚 Student Exam Performance Indicator
 Ridge Regression model (**R² = 0.876**) wrapped in a Flask app, deployed live on Render.
 
 `scikit-learn` `Flask` `Render`
 
-[→ View Repo](https://github.com/Rajamikrani/YOUR-REPO-NAME) · [→ Live Demo](https://student-performance-indicator-w8hn.onrender.com)
+[→ View Repo](https://github.com/Rajamikrani/Student-Performance-Indicator) · [→ Live Demo](https://student-performance-indicator-w8hn.onrender.com)
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +130,7 @@ Full-stack video conferencing platform on the PERN stack with Prisma ORM, 80+ RE
 
 `PostgreSQL` `Express` `React` `Node.js` `Socket.io`
 
-[→ View Repo](https://github.com/Rajamikrani/YOUR-REPO-NAME)
+[→ View Repo](https://github.com/Rajamikrani/Student-Performance-Indicator)
 
 </td>
 <td width="50%" valign="top">
@@ -173,13 +162,6 @@ The main stats card above (`show_icons=true`) already includes your **total PRs,
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajamikrani&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
 
 <div align="center">
 <i>Building, breaking, and learning one project at a time 🚀</i>
