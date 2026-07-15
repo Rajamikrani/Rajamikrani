@@ -38,13 +38,6 @@ Computer Vision
 Natural Language Processing
 MLOps and Model Deployment
 
-🎯 Goals
-Build impactful AI projects with real-world datasets.
-Contribute to open-source AI and machine learning projects.
-Secure an AI/ML internship and grow into an AI Engineer.
-Pursue a Master's degree in Artificial Intelligence abroad.
-
-"Keep learning, keep building, and let curiosity drive innovation."
 ```
 
 <br>
