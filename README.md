@@ -16,8 +16,7 @@
 <br>
 
 ## 🚀 About Me
-🎓 Final-year BCA student from Nepal with a strong passion for Artificial Intelligence, Machine Learning, and Deep Learning.
-
+Final-year BCA student from Nepal with a strong passion for Artificial Intelligence, Machine Learning, and Deep Learning.
 I'm currently focused on building practical AI applications and strengthening my understanding of deep learning, neural networks, computer vision, and natural language processing. I enjoy transforming real-world problems into data-driven solutions through end-to-end machine learning projects.
 
 
@@ -29,11 +28,13 @@ Data Visualization: Matplotlib, Seaborn
 Web Development: React, Node.js, Express.js
 Databases: MongoDB, PostgreSQL
 Tools: Git, GitHub, VS Code, Jupyter Notebook, Streamlit
+
 🌱 Currently Learning
 Deep Learning
 Computer Vision
 Natural Language Processing
 MLOps and Model Deployment
+
 🎯 Goals
 Build impactful AI projects with real-world datasets.
 Contribute to open-source AI and machine learning projects.
