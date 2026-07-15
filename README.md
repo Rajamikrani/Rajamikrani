@@ -5,10 +5,8 @@
 ### AI Enthusiast · Web Developer · BCA Student, Tribhuvan University
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/raja-mikrani-63304720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/rajamikrani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 </div>
 <br>
@@ -18,15 +16,31 @@
 <br>
 
 ## 🚀 About Me
+🎓 Final-year BCA student from Nepal with a strong passion for Artificial Intelligence, Machine Learning, and Deep Learning.
 
-I'm a 7th-semester BCA student based in **Kathmandu Valley, Nepal**, building a strong AI/ML portfolio while preparing for both industry roles and graduate school (targeting Erasmus Mundus AI programs). I care about applying machine learning to real, high-impact problems — from predicting earthquake damage in my own country to building explainable, deployable ML systems.
+I'm currently focused on building practical AI applications and strengthening my understanding of deep learning, neural networks, computer vision, and natural language processing. I enjoy transforming real-world problems into data-driven solutions through end-to-end machine learning projects.
+
 
 ```text
-🔭 Currently building   Bank Customer Churn Prediction (ANN · TensorFlow/Keras · Streamlit · Flask)
-🌱 Currently learning   Transformers · NLP · Agentic AI (LangChain / CrewAI)
-🎯 Long-term goal       Erasmus Mundus AI Master's (EMAI) → a career in applied ML
-💬 Ask me about         XGBoost · SHAP explainability · TensorFlow/Keras · Flask/Streamlit deployment
-📫 Reach me at          YOUR-EMAIL@gmail.com
+💻 Tech Stack
+Languages: Python, JavaScript, SQL
+AI/ML: NumPy, Pandas, Scikit-learn, TensorFlow, Keras
+Data Visualization: Matplotlib, Seaborn
+Web Development: React, Node.js, Express.js
+Databases: MongoDB, PostgreSQL
+Tools: Git, GitHub, VS Code, Jupyter Notebook, Streamlit
+🌱 Currently Learning
+Deep Learning
+Computer Vision
+Natural Language Processing
+MLOps and Model Deployment
+🎯 Goals
+Build impactful AI projects with real-world datasets.
+Contribute to open-source AI and machine learning projects.
+Secure an AI/ML internship and grow into an AI Engineer.
+Pursue a Master's degree in Artificial Intelligence abroad.
+
+"Keep learning, keep building, and let curiosity drive innovation."
 ```
 
 <br>
