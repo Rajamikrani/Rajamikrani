@@ -143,7 +143,7 @@ Afno Ghar is a full-stack home rental platform inspired by Airbnb, built with th
 <br>
 
 ## 📊 GitHub Stats
-
+<div align="center">
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajamikrani&theme=radical&hide_border=true" />
